@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gabriel\AndroidStudioProjects\MTGLifeCounter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="280897022f1b9326101c1435d69d6a28f48045ab">
+        <dex dex="C:\Users\Gabriel\AndroidStudioProjects\MTGLifeCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0bc432fa106eaece4efcbe8da67a2ddcf6b8fd22\classes.dex" />
+    </item>
+
+</items>
